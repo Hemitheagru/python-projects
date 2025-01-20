@@ -1,1 +1,1 @@
-# python-projects
+# python-machinelearning-deeplearning-AI
